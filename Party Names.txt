@@ -1,0 +1,30 @@
+--{Poland}--
+	[Clero-fascist] Ruch Narodowo-Radykalny Falanga (RNR-Falanga)
+	[National Democratic] Stronnictwo Narodowe (SN)
+	[Ozoneist] Obóz Zjednoczenia Narodowego (OZN)
+
+--{Grand Lithuania}--
+	[Litvinist] Narodnaja Partyja Vialikaj Litvy (NPVL)
+
+--{Post-German interstate parties}--
+	[Conservative] German Centre Party (DZP)
+	[Social Democratic] Social Democratic Party (of Germany?) (SPD?)
+
+--{Austria}--
+	[National Conservative] Fatherland Front
+	[National Socialist] German National Socialist Workers' Party (DNSAP)
+
+--{Hungary}--
+	[National Conservative] Party of Hungarian Life (MÉP)
+
+--{Japan}--
+	[Second-worldist] Imperial Rule Assistance Association (IRAA)
+
+--{Lusatia}--
+	[Social Democratic] Domowina
+
+--{Russia}--
+	[Neo-narodist] ?
+
+--{Ukraine}--
+	[National Democratic] Ukrainian National Democratic Party (UNDP)
